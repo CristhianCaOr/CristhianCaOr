@@ -21,7 +21,7 @@ I love the code, and create things like webpages and videos. At the moment i'm s
 
 - I like <a href="https://i.imgur.com/2GVwMwH.jpg">read</a>, a lot
 
-- i workout (haven't picture :() 
+- i workout (haven't picture 😓) 
 
 <p>And is that, i hope learn more and do pull requests frequently XD.</p>
 
