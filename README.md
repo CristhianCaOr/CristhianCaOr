@@ -20,7 +20,7 @@ I love the code, and create things like webpages and videos. At the moment I'm s
 
 - I like <a href="https://i.imgur.com/2GVwMwH.jpg">to read</a>, a lot
 
-- I create <a href="https://www.youtube.com/@otarachi19"Videos</a> about programming
+- I create <a href="https://www.youtube.com/@otarachi19">Videos</a> about programming
 
 <p>And is that, i hope learn more and do pull requests frequently XD.</p>
 
