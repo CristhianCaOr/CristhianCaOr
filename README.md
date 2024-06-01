@@ -1,9 +1,9 @@
 ### Hi everyone 🐱‍👤
 ![This is my GitHub banner](https://i.imgur.com/0cqYoAZ.png)
 
-My name is Cristhian, i'm 17 years old and from Colombia.
+My name is Cristhian, I'm 18 years old and I'm from Colombia.
 
-I love the code, and create things like webpages and videos. At the moment i'm studying programming and i hope i can learn more about this excited world :D
+I love the code, and create things like webpages and videos. At the moment I'm studying independently and I hope I can learn more about this  world :D
 
 <h3>Skills</h3>
 
@@ -15,13 +15,12 @@ I love the code, and create things like webpages and videos. At the moment i'm s
 
 <h3>Fun facts ⚡</h3>
 
-- Sometimes i play <a href="https://i.imgur.com/R7l31hQ.jpg"> Ultimate fresbee </a>
 
 - I love the <a href="https://i.imgur.com/ezRy58b.jpg">chess</a>
 
-- I like <a href="https://i.imgur.com/2GVwMwH.jpg">read</a>, a lot
+- I like <a href="https://i.imgur.com/2GVwMwH.jpg">to read</a>, a lot
 
-- i workout (haven't picture 😓) 
+- I create <a href="https://www.youtube.com/@otarachi19"Videos</a> about programming
 
 <p>And is that, i hope learn more and do pull requests frequently XD.</p>
 
